@@ -1,5 +1,14 @@
 ## Hola, soy Matias 👋
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasFischer&show_icons=true&theme=midnight-purple&border_color=474554" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFischer&layout=compact&theme=midnight-purple&border_color=474554" height="160"/>
+</div>
+
+<br>
+
 <!--
 **MatiasFischer/MatiasFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
